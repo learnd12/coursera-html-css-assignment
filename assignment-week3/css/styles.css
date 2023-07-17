@@ -1,0 +1,25 @@
+@media (min-width: 576px){
+    .hidden-sm{
+        visibility: hidden;
+    }
+}
+
+#navbar-menu{
+    border : 1px #1a1d20 solid;
+    background-color: #badce3;
+    margin-top: 5px;
+}
+.tall-section {
+    height: 1999px;
+
+}
+
+.nav-item{
+    padding-left: 9px;
+}
+
+.dropdown-divider{
+    height: 1px;
+    background-color: #1a1d20;
+}
+
