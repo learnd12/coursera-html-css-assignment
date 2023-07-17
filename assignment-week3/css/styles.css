@@ -1,11 +1,7 @@
-@media (min-width: 576px){
-    .hidden-sm{
-        visibility: hidden;
-    }
-}
 
-#navbar-menu{
-    border : 1px #1a1d20 solid;
+#navbar-menu {
+
+
     background-color: #badce3;
     margin-top: 5px;
 }
@@ -32,4 +28,3 @@ section.tall-section span>a{
     height: 1px;
     background-color: #1a1d20;
 }
-
