@@ -11,7 +11,17 @@
 }
 .tall-section {
     height: 1999px;
+    margin: 0 auto 9px auto;
 
+}
+
+section.tall-section>p{
+    padding : 0 5px 5px 5px;
+}
+
+section.tall-section span>a{
+    color : #0a53be;
+    font-size: 1.1em;
 }
 
 .nav-item{
